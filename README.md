@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dhanraj644/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2652-sum-multiples](https://github.com/dhanraj644/DSA/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
