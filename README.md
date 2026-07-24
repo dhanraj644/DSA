@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dhanraj644/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhanraj644/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -19,8 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dhanraj644/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhanraj644/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dhanraj644/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhanraj644/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
